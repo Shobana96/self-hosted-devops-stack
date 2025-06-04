@@ -1,0 +1,7 @@
+users:
+  shobana:
+    password: "$argon2id$v=19$m=65536,t=3,p=4$DBtKE4Zd9dZN8nAXP7XNPA$bbiJsKnPtsv1Lhi4to8uVMfiRDdHiYecK62rWoOv+KU"
+    displayname: "Shobana Raghu"
+    email: "shobana@example.com"
+    groups:
+      - admin
