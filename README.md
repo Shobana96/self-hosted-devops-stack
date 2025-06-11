@@ -11,6 +11,10 @@ This project sets up a complete self-hosted DevOps environment using:
 
 ---
 
+**Architecture:**
+
+Browser --> Caddy --> Authelia --> Gitea --> Grafana --> Access
+
 ## 📦 Tech Stack
 
 | Tool       | Purpose                                 |
